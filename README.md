@@ -1,0 +1,1 @@
+This demo estimates a Gaussian Process for a large dataset (N > 1,000) using algorithms presented in Banerjee et. al (2011).
