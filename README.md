@@ -1,4 +1,4 @@
-This demo estimates a Gaussian Process for a large dataset (N > 1,000) using algorithm presented in Banerjee et. al (2011).
+This demo estimates a Gaussian Process for a large dataset (N > 1,000) using an algorithm presented in Banerjee et. al (2011).
 
 ### GP with parana dataset
 http://nbviewer.ipython.org/gist/jbencook/2c87aa282a47764d4e5d
